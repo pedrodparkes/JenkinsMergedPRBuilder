@@ -1,0 +1,9 @@
+{
+  "name": "githug-pr-merge",
+  "description": "Trigger Jenkins build by merging GitHub PR to master",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-python-requirements": "^5.0.1"
+  }
+}
