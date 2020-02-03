@@ -17,7 +17,8 @@ Use this helper function if you need to trigger Jenkins multibranch build when c
       JENKINS_USER_TOKEN: <token>
       JENKINS_URL: https://<jenkins_url>
       JENKINS_PIPELINE_NAME: <multibranch_pipeline_name>
-      ```
+```
+
 
 3. Install Serverless Framework:
 ```	
